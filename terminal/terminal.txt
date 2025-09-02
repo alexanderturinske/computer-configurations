@@ -1,0 +1,3 @@
+How to customize the terminal
+1. I use the standard mac terminal
+2. I use the "Novel" Profile (CMD + . => Profiles)
